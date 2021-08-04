@@ -18,3 +18,7 @@
 ## Планы по доработке проекта:
 
 * Адаптивная вёрстка
+
+## Ссылка на GitHub Pages:
+
+[Проектная работа "How to learn"](https://timtorshin.github.io/how-to-learn/index.html)
